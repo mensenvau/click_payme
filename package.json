@@ -1,6 +1,6 @@
 {
-    "name": "click-payme",
-    "version": "1.1.1",
+    "name": "payme-uz",
+    "version": "1.1.2",
     "description": "Click va Payme to'lov tizimga ulash!",
     "main": "index.js",
     "keywords": ["click","payme","mensenvau","to'lov tizmi","shopping uchun"],

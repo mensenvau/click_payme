@@ -13,7 +13,8 @@
   },
   "payme": {
     "password" : "YOUR_PASSWORD",
-    "merchant": "YOUR_MERCHANT"
+    "merchant": "YOUR_MERCHANT",
+    "return_url": "https://mensenvau.uz"
   },
   "db": {
     "multipleStatements": true,
