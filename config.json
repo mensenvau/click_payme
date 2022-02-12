@@ -14,5 +14,23 @@
   "payme": {
     "password" : "YOUR_PASSWORD",
     "merchant": "YOUR_MERCHANT"
-  }
+  },
+  "db": {
+    "multipleStatements": true,
+    "server": "YOUR_DB_SERVER",
+    "user": "YOUR_DB_USER",
+    "password": "YOUR_DB_PASSWORD",
+    "database": "YOUR_DB_NAME",
+    "port": 1433,
+    "requestTimeout": 500000,
+    "options": {
+        "encrypt": false,
+        "enableArithAbort": true
+    },
+    "pool": {
+        "min": 10,
+        "idleTimeoutMillis": 30000
+    }
+}
+
 }

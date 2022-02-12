@@ -1,4 +1,4 @@
-const config = require("./db")
+const config  = require("../config.json").db 
 const sql = require('mssql')
 
 const poolPromise = new sql.ConnectionPool(config)

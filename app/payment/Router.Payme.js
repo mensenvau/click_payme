@@ -12,6 +12,9 @@ let config = require("../../config.json").payme
 const password = config.password
 const merchant = config.merchant
 const return_url= config.return_url 
+
+
+
 // function checkAuth
 function checkAuth(auth) {
     return auth &&
