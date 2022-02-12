@@ -1,0 +1,18 @@
+{
+
+  "app": {
+    "port": "1550"
+  },
+  "click": {
+    "card_type": "uzcard",
+    "merchant_id": 0 ,
+    "merchant_user_id": 0 ,
+    "service_id" : 0 ,
+    "return_url": "https://mensenvau.uz",
+    "SECRET_KEY": "YOUR_SECRET_KEY"
+  },
+  "payme": {
+    "password" : "YOUR_PASSWORD",
+    "merchant": "YOUR_MERCHANT"
+  }
+}
