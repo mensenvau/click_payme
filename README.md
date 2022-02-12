@@ -35,7 +35,9 @@ xatolar uchun state=-1 bo'ladi .
 
 ---
 
-```Xafsizlig taminlangan package.json va codni ko'ring! To'lov o'tish jarayoni password va SECRET_KEY bilan himoyalangan ularni olgandan keyin hichkimga bermang!```
+```shell 
+Xafsizlig taminlangan package.json va codni ko'ring! To'lov o'tish jarayoni password va SECRET_KEY bilan himoyalangan ularni olgandan keyin hichkimga bermang!
+```
 
 
 Telegram: https://t.me/mensenvau 
