@@ -1,8 +1,9 @@
 {
-    "name": "nodeapp",
-    "version": "1.0.0",
-    "description": "",
+    "name": "click-payme",
+    "version": "1.1.0",
+    "description": "Click va Payme to'lov tizimga ulash!",
     "main": "index.js",
+    "keywords": ["click","payme","mensenvau","to'lov tizmi","shopping uchun"],
     "dependencies": {
         "express": "^4.17.1",
         "md5": "^2.3.0",
